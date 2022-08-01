@@ -25,6 +25,10 @@
     background-color: hsl(210deg 29% 24%);
 }
 
+.ac-mr-5 {
+    margin-left: 30px;
+}
+
 .ac-button {
     width: 150px;
     color: white !important;
