@@ -13,6 +13,18 @@
     color: #fff
 }
 
+.ac-white {
+    color: white;
+}
+
+.ac-bg-blue {
+    background-color: hsl(209deg 31% 33%);
+}
+
+.ac-bg-darkblue {
+    background-color: hsl(210deg 29% 24%);
+}
+
 .ac-button {
     width: 150px;
     color: white !important;
